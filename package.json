@@ -49,6 +49,7 @@
     "animate.css": "^4.1.1",
     "axios": "^1.7.4",
     "color": "^4.2.3",
+    "element-plus": "^2.10.1",
     "nprogress": "^0.2.0",
     "path-browserify": "^1.0.1",
     "path-to-regexp": "^6.2.2",

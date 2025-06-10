@@ -1,5 +1,7 @@
 <template>
-  <div>1111</div>
+  <div>
+    <el-button type="primary">主要按钮</el-button>
+  </div>
 </template>
 
 <script setup lang="ts"></script>
